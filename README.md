@@ -280,3 +280,4 @@ These screenshots demonstrate the API responses and HTTP status codes for the te
 - Menu data is not persistent and resets when the server restarts.
 - The project uses Express 5 and its routing syntax.
 - Authentication uses a simple demonstration token and is not intended for production security.
+
