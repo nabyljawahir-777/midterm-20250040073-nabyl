@@ -13,6 +13,8 @@ This project was developed as a midterm assignment for the REST API course.
 | Project Theme | Modern Coffee Shop         |
 | Course | PLATFORM-BASED PROGRAMMING |
 
+Video Demonstration: https://youtu.be/w-VPom-YYl8?si=wA0lMA3t629rDy1O
+
 ## Technologies Used
 
 - Node.js
